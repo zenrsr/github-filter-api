@@ -2,17 +2,20 @@
   width: 30%;
   margin: 1%;
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: #f8f8ff;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 .avatar {
-  width: 50%;
+  width: 30%;
   height: auto;
   align-self: center;
+  border-radius: 50%;
+  margin-top: 5%;
 }
 .icon {
   width: 20px;
